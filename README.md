@@ -1,8 +1,5 @@
 # Live Currency Converter using Google Finance
 
-<img src="https://travis-ci.org/travis-ci/travis-web.svg?branch=master" />
-
-
 This is the simple script which creates the API to use currency conversion directly from your web app.
 
 ### requires jquery 1.9.1 or higher and php 5.4
