@@ -1,4 +1,4 @@
-# Live Currency Converter using Google Finance
+# Live Currency Converter using Google Finance<img src="https://travis-ci.org/travis-ci/travis-web.svg?branch=master" />
 
 This is the simple script which creates the API to use currency conversion directly from your web app.
 
