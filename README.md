@@ -48,6 +48,7 @@ Process the requests from PHP
 		cconvert($_POST['amount'],$_POST['from'],$_POST['to']);
 </pre>
 
+P.S: The values are retrived from Google Finance and which is considered to be Open for the using it personally/commercially.
 
 ###contribute
 Contributions to live-currency-converter are welcome. Here is how you can contribute to live-currency-converter:
